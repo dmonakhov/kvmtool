@@ -100,6 +100,7 @@ error_close_in:
 static const char *guestfs_dirs[] = {
 	"/dev",
 	"/etc",
+	"/etc/alternatives",
 	"/home",
 	"/host",
 	"/proc",
